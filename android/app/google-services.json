@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38221720491",
+    "project_id": "mystock-fb657",
+    "storage_bucket": "mystock-fb657.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38221720491:android:5952f04ff70c7af6c380ee",
+        "android_client_info": {
+          "package_name": "com.example.pstock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8afMhAnhK0gKYdlQvkPp4hL6fwLBamIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
